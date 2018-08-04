@@ -1,3 +1,10 @@
+# Biology-Detection
+By using gray scale threshold segmentation to locate the candidate region and then judged by CNN classification model.
+![alt cover](https://github.com/DingYiWen/Biology-Detection/blob/master/fillholes.jpg)
+![alt cover](https://github.com/DingYiWen/Biology-Detection/blob/master/%E9%80%89%E5%8C%BA.jpg)
+
+
+
 # MatConvNet: CNNs for MATLAB
 
 **MatConvNet** is a MATLAB toolbox implementing *Convolutional Neural
